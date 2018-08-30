@@ -1,0 +1,2 @@
+# BeastMindForAndroid
+记录对Android问题解决的最好思路
